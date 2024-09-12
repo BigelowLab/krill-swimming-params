@@ -4,6 +4,8 @@ This is the final saved parameterised model for individual swimming parameters o
 
 Published papers from this data are available at: (insert doi here)
 
+Put histogram of krill velocity etc as example in here.
+
 The full list of swimming parameters and their associated models is given below.
 
 # Swimming parameters list
